@@ -1,0 +1,20 @@
+CHESS GAME by Dwaraka Ramana(Aryabhatta batch)
+
+
+INTRODUTION:
+
+ This is an python program,which works in vscode,terminal.This is an simple python chess program.In this we are going to play chess game with offline multiplayer.You can play with friends, brothers and etc.. this is an popular game in the world and it makes us to think alot.it works under UI(User Interface) access
+
+MOTIVATION:
+
+  I chosed this project because in world wide most of the people like to play even i would like to play.Since its an sport from 2000 and olympic said that chess will be added in 2020 olympics.
+
+LINK FOR SOURCE CODE:
+
+ https://github.com/attainu/python-project-Dwaraka-Ramana-au9/blob/master/chess.py
+  
+
+
+APPLICATION USED:
+
+ Vscode(python 3) or pycharm 
